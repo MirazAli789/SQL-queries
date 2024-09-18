@@ -30,3 +30,5 @@ update employee set emp_id = 101 where name = "Isbaul";
 update employee set emp_id = 102 where name = "Lisan";
 
 select emp_id,name from employee;
+select * from employee;
+select name,desig from employee;
